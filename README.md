@@ -8,6 +8,7 @@ A front-end clone of the Spotify web player built using **only HTML and CSS**. T
 
 - 🎧 Responsive layout using Flexbox
 - 🌓 Dark theme interface
+
 - 📂 Sidebar with navigation & library
 - 📌 Sticky top navigation bar
 - 🎼 Bottom music player with controls and progress bar
@@ -16,7 +17,7 @@ A front-end clone of the Spotify web player built using **only HTML and CSS**. T
 
 ## 📸 Preview
 
-![preview.png]
+[D:\.vscode\CSS\Spotify clone]
 
 
 
@@ -25,5 +26,11 @@ A front-end clone of the Spotify web player built using **only HTML and CSS**. T
 [Click here to watch the demo](#) <!-- Replace with your video link -->
 
 ## 📁 Project Structure
+spotify-clone/
+│
+├── index.html
+├── style.css
+└── assets/   (images/icons if any)
+
 
 
