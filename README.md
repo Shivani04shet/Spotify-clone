@@ -17,13 +17,15 @@ A front-end clone of the Spotify web player built using **only HTML and CSS**. T
 
 ## 📸 Preview
 
-[D:\.vscode\CSS\Spotify clone]
+[[preview - Copy](https://github.com/user-attachments/assets/473bc991-e5be-4d4a-b489-743b1fb17237)
+emo]]
 
 
 
 ## 📹 Demo Video
 
-[Click here to watch the demo](#) <!-- Replace with your video link -->
+[Click here to watch the d!
+ <!-- Replace with your video link -->
 
 ## 📁 Project Structure
 spotify-clone/
